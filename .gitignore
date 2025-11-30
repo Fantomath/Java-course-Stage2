@@ -1,3 +1,18 @@
+# Build directories
 target/
+out/
+build/
+
+# VS Code
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
 *.log
+
+# Java binaries
+*.class
+*.jar
